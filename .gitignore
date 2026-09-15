@@ -1,0 +1,13 @@
+*.exe
+/mlTradingArchitecture/
+/mlTradingArchitecture.zip
+config.toml
+MLConfig.toml
+imgui.ini
+*.csv
+*.parquet
+.vscode/
+/run.sh
+/build.sh
+/out
+/src/main.cpp
